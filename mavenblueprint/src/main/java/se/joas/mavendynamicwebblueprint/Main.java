@@ -1,4 +1,4 @@
-package se.joas.mavenblueprint;
+package se.joas.mavendynamicwebblueprint;
 
 public class Main {
 

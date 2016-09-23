@@ -1,4 +1,4 @@
-package se.joas.mavenblueprint;
+package se.joas.mavendynamicwebblueprint;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
